@@ -14,7 +14,7 @@
 
     <ImageButton
         android:id="@+id/btnCamara"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="188dp"
         android:contentDescription="@string/description_btn"
@@ -28,7 +28,7 @@
 
     <ImageButton
         android:id="@+id/btnContactos"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
         android:contentDescription="@string/description_btn"
@@ -41,7 +41,7 @@
 
     <ImageButton
         android:id="@+id/Localization"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginBottom="120dp"
         android:contentDescription="@string/description_btn"
