@@ -170,8 +170,6 @@ public class LocalizationActivity extends AppCompatActivity {
             if(requestCode == RESULT_OK){
                 issGPSEnable=true;
                 starLocationUpdates();
-            }else {
-                Toast.makeText(this,"GPS not enable", Toast.LENGTH_SHORT).show();
             }
         }
     }
